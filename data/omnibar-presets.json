@@ -1,0 +1,146 @@
+[
+    {
+        "DropdownItem": "Anthem",
+        "GameName": "Anthem",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Black"
+    },
+    {
+        "DropdownItem": "Apex",
+        "GameName": "Apex Legends",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Grey"
+    },
+    {
+        "DropdownItem": "Artifact",
+        "GameName": "Artifact",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Black"
+    },
+    {
+        "DropdownItem": "Battlerite",
+        "GameName": "Battlerite Royale",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Blue"
+    },
+    {
+        "DropdownItem": "Bioshock",
+        "GameName": "BioShock",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Orange"
+    },
+    {
+        "DropdownItem": "Call of Duty: Black Ops 4 (Blackout)",
+        "GameName": "Call of Duty: Black Ops 4",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Black"
+    },
+    {
+        "DropdownItem": "Dead by Daylight",
+        "GameName": "Dead by Daylight",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Red"
+    },
+    {
+        "DropdownItem": "Dota",
+        "GameName": "Dota 2",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Grey"
+    },
+    {
+        "DropdownItem": "DBZ",
+        "GameName": "Dragon Ball FighterZ",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Yellow"
+    },
+    {
+        "DropdownItem": "For Honor",
+        "GameName": "For Honor",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Orange"
+    },
+    {
+        "DropdownItem": "Friday the 13th Game",
+        "GameName": "Friday the 13th: The Game",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Black"
+    },
+    {
+        "DropdownItem": "GTAV",
+        "GameName": "Grand Theft Auto V",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Green"
+    },
+    {
+        "DropdownItem": "GTFO Game",
+        "GameName": "GTFO",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Grey"
+    },
+    {
+        "DropdownItem": "Hearthstone",
+        "GameName": "Hearthstone",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Yellow"
+    },
+    {
+        "DropdownItem": "HotS",
+        "GameName": "Heroes of the Storm",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Blue"
+    },
+    {
+        "DropdownItem": "Hunt",
+        "GameName": "Hunt: Showdown",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Grey"
+    },
+    {
+        "DropdownItem": "IRL/Just Chatting",
+        "GameName": "Just Chatting",
+        "GamePlatform": "IRL",
+        "OmnibarTheme": "Blue"
+    },
+    {
+        "DropdownItem": "Last of Us",
+        "GameName": "The Last of Us",
+        "GamePlatform": "PS4",
+        "OmnibarTheme": "Black"
+    },
+    {
+        "DropdownItem": "Magic Arena",
+        "GameName": "Magic: The Gathering",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Purple"
+    },
+    {
+        "DropdownItem": "RDR2",
+        "GameName": "Red Dead Redemption 2",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Red"
+    },
+    {
+        "DropdownItem": "Star Wars Battlefront II",
+        "GameName": "Star Wars Battlefront II",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Blue"
+    },
+    {
+        "DropdownItem": "Super Smash Bros. Ultimate",
+        "GameName": "Super Smash Bros. Ultimate",
+        "GamePlatform": "Switch",
+        "OmnibarTheme": "Green"
+    },
+    {
+        "DropdownItem": "World of Warcraft",
+        "GameName": "World of Warcraft",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Black"
+    },
+    {
+        "DropdownItem": "XCOM2",
+        "GameName": "XCOM 2",
+        "GamePlatform": "PC",
+        "OmnibarTheme": "Purple"
+    }
+]
