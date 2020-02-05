@@ -34,7 +34,13 @@
                 // He's streaming IRL.
 //                document.getElementById("output").textContent = JSON.parse(this.responseText);
 
-                for(var i=0; i < games.length; i++) if(games[i]["GameName"] == urlParams.get("GameName")) outputInfo = games[i].GameName + " on "+ games[i].GamePlatform;
+                for(var i=0; i < games.length; i++) if(games[i]["GameName"] == urlParams.get("GameName")){
+                    if(games[i]["GameName"] == "Just Chatting"){
+                        outputInfo = "streaming IRL (Just Chatting)";
+                    } else {
+                        outputInfo = games[i].GameName + " on "+ games[i].GamePlatform;
+                    }
+                }
                 
                 if(outputInfo){
                     document.write(outputInfo);
