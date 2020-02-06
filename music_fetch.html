@@ -30,21 +30,15 @@
         
             function storeAndUse(data){
                 song = data.recenttracks.track[0];
-                
+                var outputText;
                 if(song["@attr"]){
-                    document.getElementById("output").innerHTML = "The song currently playing is "+ song["artist"]["#text"] +" - "+ song["name"] +" SeemsGood";
+                    outputText = "The song currently playing is "+ song["artist"]["#text"] +" - "+ song["name"] +" SeemsGood";
+                    document.getElementById("output").innerHTML = outputText;
+                    console.log(outputText);
                 } else {
-                    document.getElementById("output").innerHTML = "Currently no song playing right now. sohinkiThump";
-                }
-                
-                console.log(song);
-                console.log("@attr");
-                console.log(song["@attr"]);
-                
-                if(outputInfo){
-                //    document.write(outputInfo);
-                } else {
-                 //   document.write(urlParams.get("GameName"));
+                    outputText = "Currently no song playing right now. sohinkiThump";
+                    document.getElementById("output").innerHTML = outputText;
+                    console.log(outputText);
                 }
             }
             
