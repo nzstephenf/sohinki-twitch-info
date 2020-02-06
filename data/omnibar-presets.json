@@ -66,6 +66,12 @@
         "OmnibarTheme": "Black"
     },
     {
+        "DropdownItem": "Granblue Fantasy: Versus",
+        "GameName": "Granblue Fantasy: Versus",
+        "GamePlatform": "PS4",
+        "OmnibarTheme": "Blue"
+    },
+    {
         "DropdownItem": "GTAV",
         "GameName": "Grand Theft Auto V",
         "GamePlatform": "PC",
